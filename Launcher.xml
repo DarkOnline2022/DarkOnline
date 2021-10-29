@@ -1,0 +1,30 @@
+<DarkLauncher maint="0" progbarwidth="976" patchhive="http://18.189.43.141/Patch/PatchHive.txt" lang="http://18.189.43.141/Launcher/lang.xml">
+   <Frames>
+      <Frame page="0" x="19" y="101" w="347" h="182" src="http://fiestalauncher.gamigo.com/us/slider/us_1635006604_slider.html" />
+      <Frame page="0" x="19" y="326" w="347" h="191" src="http://fiestalauncher.gamigo.com/us/slider/us_1635006604_showcase.html" />
+   </Frames>
+   <Buttons>
+      <Button id="btn_Gamigo" src="www.Soon.com" />
+      <Button id="btn_News" src="www.Soon.com" />
+      <Button id="btn_Shop" src="www.Soon.com" />
+      <Button id="btn_Videos" src="https://youtu.be/UcbpzB24Xis" />
+      <Button id="btn_Forum" src="www.Soon.com" />
+   </Buttons>
+   <Externals>
+      <External name="reslauncher\Launcher.swf" src="http://fiestalauncher.gamigo.com/us/externals/shadowOfGods/Launcher.swf" hash="d3eb6321b422213076a310b9a84ff6e5" />
+	  <External name="reslauncher\background.png" src="http://18.189.43.141/Launcher/background.png" hash="f611abb83f7d2383d63006acb95289c7"/>
+   </Externals>
+   <!-- type: 0 = warning, 1 = info, 2 = critical -->
+   <Notices>
+		<Notice enabled="1" type="0" autoshow="1" lifetime="5000">
+			<NoticeTitle>Maintenance</NoticeTitle>
+			<NoticeText>A maintenance will take place on 05/03/18 at 01h00 (PDT).</NoticeText>
+		</Notice>
+   </Notices>
+   <!-- FLV/MP3 files' paths relevant to swf root, SWF path relevant to exe root -->
+   <Background swf="reslauncher\Launcher.swf" flv="video.flv" mp3="sound.mp3" png="background.png"/>
+   <DarkClientStartup name="Dark.bin">
+    -i 18.189.43.141
+   </DarkClientStartup>
+   <ExitWindow enabled="0" title="Thank you for playing!" w="640" h="480" src="Soon" />
+</DarkLauncher>
