@@ -1,1 +1,12 @@
 
+		Current		UpdateFile
+
+#LAUNCHER	2019.5.22.0US	
+#UPDATER	
+
+#ROOT	https://darkonline2022.github.io/DarkOnline/Slider/files/
+
+	OldVer			PatchFile
+
+#PATCH	0.00.000	0.00.000_TO_0.00.001.gdp
+#PATCH	0.00.001	0.00.001_TO_0.00.002.gdp
