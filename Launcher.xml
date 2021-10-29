@@ -12,11 +12,11 @@
    </Buttons>
    <Externals>
       <External name="reslauncher\Launcher.swf" src="http://fiestalauncher.gamigo.com/us/externals/shadowOfGods/Launcher.swf" hash="d3eb6321b422213076a310b9a84ff6e5" />
-	  <External name="reslauncher\background.png" src="http://18.189.43.141/Launcher/background.png" hash="f611abb83f7d2383d63006acb95289c7"/>
+	  <External name="reslauncher\background.png" src="background.png" hash="f611abb83f7d2383d63006acb95289c7"/>
    </Externals>
    <!-- type: 0 = warning, 1 = info, 2 = critical -->
    <Notices>
-		<Notice enabled="1" type="0" autoshow="1" lifetime="5000">
+		<Notice enabled="0" type="0" autoshow="1" lifetime="5000">
 			<NoticeTitle>Maintenance</NoticeTitle>
 			<NoticeText>A maintenance will take place on 05/03/18 at 01h00 (PDT).</NoticeText>
 		</Notice>
