@@ -12,7 +12,7 @@
    </Buttons>
    <Externals>
       <External name="reslauncher\Launcher.swf" src="https://darkonline2022.github.io/DarkOnline/Launcher.swf" hash="d3eb6321b422213076a310b9a84ff6e5" />
-	  <External name="reslauncher\background.png" src="https://darkonline2022.github.io/DarkOnline/background.png" hash="f611abb83f7d2383d63006acb95289c7"/>
+	  <External name="reslauncher\background.png" src="https://darkonline2022.github.io/DarkOnline/background.png" hash="07c732001486feb989dd8fd4314a08d7"/>
    </Externals>
    <!-- type: 0 = warning, 1 = info, 2 = critical -->
    <Notices>
