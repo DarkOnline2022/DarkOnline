@@ -1,0 +1,12 @@
+<DarkLauncher key="en">
+<repatch>Are you sure you want to repatch your client?</repatch>
+<update_check>Checking for update...</update_check>
+<up_to_date>Client up to date.</up_to_date>
+<downloading>Downloading Update...</downloading>
+<download_complete>Downloading Complete</download_complete>
+<applying>Applying Patch...</applying>
+<patch_finish>Patch Complete</patch_finish>
+<no_flash>Flash not installed and is required to run Fiesta. Would you like to install it now?</no_flash>
+<launch_error>Fiesta Launcher Error</launch_error>
+<invalid_config>Invalid config file.</invalid_config>
+</DarkLauncher>
