@@ -4,7 +4,7 @@
 #LAUNCHER	2019.5.22.0US	
 #UPDATER	
 
-#ROOT	http://18.218.184.188/Files/Patch
+#ROOT	http://18.218.184.188/Files/Patch/
 
 	OldVer			PatchFile
 
