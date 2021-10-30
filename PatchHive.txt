@@ -4,7 +4,7 @@
 #LAUNCHER	2019.5.22.0US	
 #UPDATER	
 
-#ROOT	https://darkonline2022.github.io/DarkOnline/Slider/files/
+#ROOT	http://18.218.184.188/Files/
 
 	OldVer			PatchFile
 
