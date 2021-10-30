@@ -1,4 +1,4 @@
-<DarkLauncher maint="0" progbarwidth="976" patchhive="http://18.218.184.188/Files/PatchHive.txt" lang="https://darkonline2022.github.io/DarkOnline/lang.xml">
+<DarkLauncher maint="0" progbarwidth="976" patchhive="https://darkonline2022.github.io/DarkOnline/PatchHive.txt" lang="https://darkonline2022.github.io/DarkOnline/lang.xml">
    <Frames>
       <Frame page="0" x="19" y="101" w="347" h="182" src="https://darkonline2022.github.io/DarkOnline/Slider/Slider01.html" />
       <Frame page="0" x="19" y="326" w="347" h="191" src="https://darkonline2022.github.io/DarkOnline/Slider/Slider02.html" />
